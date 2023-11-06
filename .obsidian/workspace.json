@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "698b93523e7fa7eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "697cfb54493bb781",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "491fb2a8e0988ce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTML/폼에서 사용하는 여러 가지 태그.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "055c6dcf24e96a09",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc35eafb30e381cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1e00a7c36d6288c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c56a8afb8cec409b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34c0a56b5acc7ba4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e22ba1ad5cfb57c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf257bc17425976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fafc6dd8bfcb41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTML/폼에서 사용하는 여러 가지 태그.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bcf46e22f773f26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTML/폼에서 사용하는 여러 가지 태그.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aeae3887a40766d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4740475d39cabce9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTML/폼에서 사용하는 여러 가지 태그.md"
+              }
+            }
+          },
+          {
+            "id": "a7921cee16f21eae",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "491fb2a8e0988ce5",
+  "lastOpenFiles": [
+    "HTML/image/24.png",
+    "HTML/텍스트 입력하기.md",
+    "HTML/체크박스, 라디오, 숫자입력 필드 예제.md",
+    "HTML/시맨틱 태그.md",
+    "HTML/사용자 입력을 위한 input 태그.md",
+    "HTML/버튼 예제.md",
+    "HTML/목록 만들기.md",
+    "HTML/01. HTML 기본 구조.md",
+    "HTML/input 태그의 주요 속성.md",
+    "HTML/예시.md",
+    "HTML/히든 필드 예제.md",
+    "HTML/폼에서 사용하는 여러 가지 태그.md",
+    "HTML/image/23.png",
+    "HTML/하이퍼링크 삽입하기.md",
+    "HTML/image/22.png",
+    "HTML/폼 삽입하기.md",
+    "HTML/표 만들기.md",
+    "HTML/image/21.png",
+    "HTML/image/20.png",
+    "HTML/image/19.png",
+    "HTML/image/18.png",
+    "HTML/image/17.jpg",
+    "HTML/image/16.png",
+    "HTML/image/15.png",
+    "HTML/register-4.html",
+    "HTML/register-2-result.html",
+    "HTML/image/14.png",
+    "HTML/이미지, 오디오 삽입하기.md",
+    "HTML/table 문제 해결.html",
+    "HTML/html 실습 copy.html",
+    "HTML/이미지 삽입하기.md",
+    "HTML/image",
+    "HTML/html 실습.html",
+    "Javascript/객체.md",
+    "Javascript/문서객체모델.md",
+    "Javascript/이벤트.md",
+    "HTML",
+    "README.md",
+    "Javascript/자바스크립트 기본 문법.md",
+    "Javascript/자바스크립트 용어와 기본 입출력 방법.md"
+  ]
+}
